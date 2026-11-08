@@ -1,0 +1,6 @@
+cgpa,family_income,co_curricular_score,community_service_hours,semester,disciplinary_actions,decision,rule,reason
+3.85,6000,90,40,4,0,AWARD_FULL,Top merit candidate,"Excellent academic & co-curricular performance, with acceptable need"
+3.4,10000,65,25,3,1,AWARD_PARTIAL,Good candidate - partial scholarship,Good academic & involvement record with moderate need
+2.8,3000,40,10,2,0,REVIEW,Need-based review,High need but borderline academic score
+2.2,2000,70,15,2,0,REJECT,Low CGPA – not eligible,CGPA below minimum scholarship requirement
+3.9,5000,95,60,5,2,REJECT,Serious disciplinary record,Too many disciplinary records
